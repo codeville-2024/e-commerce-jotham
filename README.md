@@ -1,4 +1,4 @@
-# Stylish-Jo streaming by Jotham Nwachukwu
+# Stylish-Jo by Jotham Nwachukwu
 
 ## Description
 
